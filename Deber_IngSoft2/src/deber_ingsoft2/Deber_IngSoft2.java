@@ -18,6 +18,7 @@ public class Deber_IngSoft2 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Mundo");
+        /////////////////////////////////
         int a=4;
         int b=2;
         int r= a+b;
@@ -33,6 +34,16 @@ public class Deber_IngSoft2 {
         num2=s.nextInt();
         int result= num1* num2;
         System.out.println("El resultado es" +result ); 
+        ///////////////////////////////////
+        //////////////////////////////////
+        /////////////////////////////////
+        int numerito= 0;
+        System.out.println("Ingrese número a elevar"); 
+        numerito=s.nextInt();
+        int resultado= numerito * numerito;
+        System.out.println("El resultado es" +resultado ); 
+        ///////////////////////////////////
+        
         
         
         
