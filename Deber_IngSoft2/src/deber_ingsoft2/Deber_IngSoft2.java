@@ -44,7 +44,7 @@ public class Deber_IngSoft2 {
         System.out.println("El resultado es" +resultado ); 
         ///////////////////////////////////
         
-        
+        System.out.println("Eso es todo, Gracias :) ");     
         
         
     }
