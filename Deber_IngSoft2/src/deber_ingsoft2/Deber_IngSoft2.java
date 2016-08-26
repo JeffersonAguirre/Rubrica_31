@@ -18,6 +18,10 @@ public class Deber_IngSoft2 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Mundo");
+        int a=4;
+        int b=2;
+        int r= a+b;
+        System.out.println(r);
     }
     
 }
