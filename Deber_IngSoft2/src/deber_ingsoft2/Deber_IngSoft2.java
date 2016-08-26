@@ -5,7 +5,7 @@
  */
 
 package deber_ingsoft2;
-
+import java.util.Scanner;
 /**
  *
  * @author FACCI
@@ -22,6 +22,22 @@ public class Deber_IngSoft2 {
         int b=2;
         int r= a+b;
         System.out.println(r);
+       ////////////////////////
+        //////////////////////
+       Scanner s = new Scanner(System.in);
+        int num1= 0;
+        int num2=0;
+        System.out.println("Ingrese primer numero"); 
+        num1=s.nextInt();
+        System.out.println("Ingrese segundo numero"); 
+        num2=s.nextInt();
+        int result= num1* num2;
+        System.out.println("El resultado es" +result ); 
+        
+        
+        
+    }
+              
     }
     
-}
+
